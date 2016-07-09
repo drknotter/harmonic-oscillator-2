@@ -1,1 +1,3 @@
-# harmonic-oscillator-2
+# [Harmonic Oscillator 2](http://drknotter.github.io/harmonic-oscillator-2)
+
+This is an updated demonstration of mass-spring systems, based on my first attempt. This demo allows for multiple systems so you can directly compare the similarities and differences in the the resulting motion of the masses. The left graph has a plot of the mass' position over time, and the right graph is a plot of the motion in [phase space](http://en.wikipedia.org/wiki/Phase_space) (position in the x-direction, velocity in the y-direction). Parameter values are taken from HTML5 slider inputs, which automatically update both the differential equation and the plots. You can also watch an animation of the motion of mass. Coded entirely in HTML, CSS, and JavaScript using the [d3](http://d3js.org/) library.
